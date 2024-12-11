@@ -8,7 +8,7 @@ sky_txt.py：单项读取sky studio的json格式的txt文件，使用pynput来�
 sky_mix.py：包含前俩个文件的功能（推荐版本，因为前俩个已经是上一个版本了，并且效果一言难尽🤣）
 ***
 特别鸣谢
-[ChatGPT](chatgpt.com)。
-[DeepSeek](chat.deepseek.com)
+[ChatGPT](https://chatgpt.com)\
+[DeepSeek](https://chat.deepseek.com)
 
 
