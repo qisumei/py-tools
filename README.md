@@ -109,11 +109,9 @@ sky_mix.py：包含前俩个文件的功能（推荐版本，因为前俩个已�
 [DeepSeek](https://chat.deepseek.com)
 [菜鸟编程](https://www.runoob.com/)
 
-## 结尾
+## 小尾巴
 
 这个小工具集合是我在闲暇时间编写的，主要用于学习和实践 Python 编程。虽然功能简单，但希望能为有需要的人提供一些便利。如果你有任何建议或想法，欢迎提交 Issue 或 Pull Request！
 
 ---
-
-**Happy Coding!** 🚀
 
