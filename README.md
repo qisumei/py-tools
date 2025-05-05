@@ -107,6 +107,7 @@ sky_mix.py：包含前俩个文件的功能（推荐版本，因为前俩个已�
 
 [ChatGPT](https://chatgpt.com)
 [DeepSeek](https://chat.deepseek.com)
+[菜鸟编程](https://www.runoob.com/)
 
 ## 结尾
 
