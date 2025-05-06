@@ -2,9 +2,13 @@
 这是一个用 Python 编写的小工具集合，主要用于闲暇时间消磨时间或解决一些日常小问题。所有工具均在 Python 3.9 到 3.12 环境下开发和测试。
 ***
 # sky系列（需要管理员权限）
-sky.py：单项读取mid文件，通过mido来读取音符，使用pynput来对光遇进程输入按键(mid音符范围是C4-C6)  
-sky_txt.py：单项读取sky studio的json格式的txt文件，使用pynput来对光遇进程输入按键  
-sky_mix.py：包含前俩个文件的功能（推荐版本，因为前俩个已经是上一个版本了，并且效果一言难尽🤣）
+- sky.py：单项读取mid文件，通过mido来读取音符，使用pynput来对光遇进程输入按键(mid音符范围是C4-C6)  
+- sky_txt.py：单项读取sky studio的json格式的txt文件，使用pynput来对光遇进程输入按键  
+- sky_mix.py：包含前俩个文件的功能（推荐版本，因为前俩个已经是上一个版本了，并且效果一言难尽🤣）
+- 安装所需依赖：
+```bash
+pip install pynput pygetwindow mido chardet
+```
 ***
 # 光影下载器（无需管理员权限）
 - dwshader.py
